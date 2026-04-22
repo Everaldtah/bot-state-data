@@ -3,8 +3,8 @@
   "pair": "ETH-USDT",
   "balance_usdt": 21.56,
   "balance_eth": 0.010959,
-  "total_balance": 72.02,
-  "current_price": 2322.72,
+  "total_balance": 72.04,
+  "current_price": 2324.76,
   "total_pnl": 0.3763,
   "trades_today": 1,
   "position": {
@@ -13,19 +13,19 @@
     "amount": 0.010959,
     "timestamp": "2026-04-20T03:12:43"
   },
-  "last_update": "2026-04-22T00:36:41",
+  "last_update": "2026-04-22T00:37:41",
   "bot_status": "active",
   "guard": {
     "daily_loss": 1.1705,
     "daily_loss_limit": 5.0,
-    "daily_loss_pct": 1.63,
+    "daily_loss_pct": 1.62,
     "trades_today": 1,
     "consecutive_fails": 0,
     "circuit_open": false,
     "circuit_open_until": null,
     "emergency_stops": 0,
     "blocked_trades": 0,
-    "last_health_check": "2026-04-22T00:36:41",
+    "last_health_check": "2026-04-22T00:37:41",
     "pid": 1695393,
     "lock_held": true
   }
