@@ -4,11 +4,11 @@
   "balance_usdt": 1.71,
   "balance_eth": 0.0,
   "total_balance": 51.71,
-  "current_price": 2310.35,
+  "current_price": 2310.36,
   "total_pnl": 0.7425,
   "trades_today": 1,
   "position": null,
-  "last_update": "2026-04-23T18:54:11",
+  "last_update": "2026-04-23T18:55:12",
   "bot_status": "active",
   "guard": {
     "daily_loss": 1.5855,
@@ -20,7 +20,7 @@
     "circuit_open_until": null,
     "emergency_stops": 0,
     "blocked_trades": 0,
-    "last_health_check": "2026-04-23T18:54:11",
+    "last_health_check": "2026-04-23T18:55:12",
     "pid": 1695393,
     "lock_held": true
   }
