@@ -3,10 +3,10 @@
   "pair": "ETH-USDT",
   "balance_usdt": 27.97,
   "balance_eth": 0.0,
-  "total_balance": 53.93,
-  "current_price": 2349.93,
+  "total_balance": 53.92,
+  "current_price": 2348.45,
   "total_pnl": 2.0071,
-  "total_unrealized_pnl": 0.9534,
+  "total_unrealized_pnl": 0.9507,
   "trades_today": 1,
   "position": null,
   "positions": [
@@ -15,14 +15,14 @@
       "side": "LONG",
       "entry": 0.09519,
       "amount": 262.6326,
-      "current_price": 0.09882,
-      "current_value": 25.9534,
-      "unrealized_pnl": 0.9534,
-      "unrealized_pct": 3.81,
+      "current_price": 0.09881,
+      "current_value": 25.9507,
+      "unrealized_pnl": 0.9507,
+      "unrealized_pct": 3.8,
       "timestamp": "2026-04-22T00:12:30"
     }
   ],
-  "last_update": "2026-04-26T18:03:40",
+  "last_update": "2026-04-26T18:04:40",
   "bot_status": "active",
   "guard": {
     "daily_loss": 1.5855,
@@ -34,7 +34,7 @@
     "circuit_open_until": null,
     "emergency_stops": 0,
     "blocked_trades": 0,
-    "last_health_check": "2026-04-26T18:03:40",
+    "last_health_check": "2026-04-26T18:04:40",
     "pid": 23694,
     "lock_held": true
   }
