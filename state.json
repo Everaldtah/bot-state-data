@@ -1,13 +1,13 @@
 {
   "connected": true,
   "pair": "ETH-USDT",
-  "balance_usdt": 1.71,
+  "balance_usdt": 27.97,
   "balance_eth": 0.0,
-  "total_balance": 53.92,
-  "current_price": 2347.08,
-  "total_pnl": 0.7425,
-  "total_unrealized_pnl": 2.2088,
-  "trades_today": 0,
+  "total_balance": 53.94,
+  "current_price": 2347.24,
+  "total_pnl": 2.0071,
+  "total_unrealized_pnl": 0.9717,
+  "trades_today": 1,
   "position": null,
   "positions": [
     {
@@ -20,32 +20,21 @@
       "unrealized_pnl": 0.9717,
       "unrealized_pct": 3.89,
       "timestamp": "2026-04-22T00:12:30"
-    },
-    {
-      "symbol": "AAVE-USDT",
-      "side": "LONG",
-      "entry": 91.817,
-      "amount": 0.2722,
-      "current_price": 96.362,
-      "current_value": 26.2297,
-      "unrealized_pnl": 1.2371,
-      "unrealized_pct": 4.95,
-      "timestamp": "2026-04-23T07:14:41"
     }
   ],
-  "last_update": "2026-04-26T17:52:31",
+  "last_update": "2026-04-26T17:53:32",
   "bot_status": "active",
   "guard": {
     "daily_loss": 1.5855,
     "daily_loss_limit": 5.0,
     "daily_loss_pct": 2.94,
-    "trades_today": 0,
+    "trades_today": 1,
     "consecutive_fails": 0,
     "circuit_open": false,
     "circuit_open_until": null,
     "emergency_stops": 0,
     "blocked_trades": 0,
-    "last_health_check": "2026-04-26T17:52:31",
+    "last_health_check": "2026-04-26T17:53:32",
     "pid": 23694,
     "lock_held": true
   }
