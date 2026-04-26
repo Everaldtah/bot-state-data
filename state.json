@@ -4,9 +4,9 @@
   "balance_usdt": 27.97,
   "balance_eth": 0.0,
   "total_balance": 53.95,
-  "current_price": 2368.07,
+  "current_price": 2367.17,
   "total_pnl": 2.0071,
-  "total_unrealized_pnl": 0.9796,
+  "total_unrealized_pnl": 0.977,
   "trades_today": 1,
   "position": null,
   "positions": [
@@ -15,10 +15,10 @@
       "side": "LONG",
       "entry": 0.09519,
       "amount": 262.6326,
-      "current_price": 0.09892,
-      "current_value": 25.9796,
-      "unrealized_pnl": 0.9796,
-      "unrealized_pct": 3.92,
+      "current_price": 0.09891,
+      "current_value": 25.977,
+      "unrealized_pnl": 0.977,
+      "unrealized_pct": 3.91,
       "timestamp": "2026-04-22T00:12:30"
     }
   ],
