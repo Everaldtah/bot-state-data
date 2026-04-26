@@ -3,10 +3,10 @@
   "pair": "ETH-USDT",
   "balance_usdt": 1.71,
   "balance_eth": 0.0,
-  "total_balance": 53.41,
-  "current_price": 2332.19,
+  "total_balance": 53.4,
+  "current_price": 2331.84,
   "total_pnl": 0.7425,
-  "total_unrealized_pnl": 1.7071,
+  "total_unrealized_pnl": 1.6878,
   "trades_today": 0,
   "position": null,
   "positions": [
@@ -15,10 +15,10 @@
       "side": "LONG",
       "entry": 0.09519,
       "amount": 262.6326,
-      "current_price": 0.09856,
-      "current_value": 25.8851,
-      "unrealized_pnl": 0.8851,
-      "unrealized_pct": 3.54,
+      "current_price": 0.09853,
+      "current_value": 25.8772,
+      "unrealized_pnl": 0.8772,
+      "unrealized_pct": 3.51,
       "timestamp": "2026-04-22T00:12:30"
     },
     {
@@ -26,14 +26,14 @@
       "side": "LONG",
       "entry": 91.817,
       "amount": 0.2722,
-      "current_price": 94.837,
-      "current_value": 25.8146,
-      "unrealized_pnl": 0.822,
-      "unrealized_pct": 3.29,
+      "current_price": 94.795,
+      "current_value": 25.8032,
+      "unrealized_pnl": 0.8106,
+      "unrealized_pct": 3.24,
       "timestamp": "2026-04-23T07:14:41"
     }
   ],
-  "last_update": "2026-04-26T06:42:27",
+  "last_update": "2026-04-26T06:43:27",
   "bot_status": "active",
   "guard": {
     "daily_loss": 1.5855,
@@ -45,7 +45,7 @@
     "circuit_open_until": null,
     "emergency_stops": 0,
     "blocked_trades": 0,
-    "last_health_check": "2026-04-26T06:42:27",
+    "last_health_check": "2026-04-26T06:43:27",
     "pid": 23694,
     "lock_held": true
   }
