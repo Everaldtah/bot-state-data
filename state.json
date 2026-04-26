@@ -3,10 +3,10 @@
   "pair": "ETH-USDT",
   "balance_usdt": 1.71,
   "balance_eth": 0.0,
-  "total_balance": 53.8,
-  "current_price": 2335.98,
+  "total_balance": 53.83,
+  "current_price": 2336.02,
   "total_pnl": 0.7425,
-  "total_unrealized_pnl": 2.0965,
+  "total_unrealized_pnl": 2.1274,
   "trades_today": 0,
   "position": null,
   "positions": [
@@ -15,10 +15,10 @@
       "side": "LONG",
       "entry": 0.09519,
       "amount": 262.6326,
-      "current_price": 0.09901,
-      "current_value": 26.0033,
-      "unrealized_pnl": 1.0033,
-      "unrealized_pct": 4.01,
+      "current_price": 0.09905,
+      "current_value": 26.0138,
+      "unrealized_pnl": 1.0138,
+      "unrealized_pct": 4.06,
       "timestamp": "2026-04-22T00:12:30"
     },
     {
@@ -26,10 +26,10 @@
       "side": "LONG",
       "entry": 91.817,
       "amount": 0.2722,
-      "current_price": 95.833,
-      "current_value": 26.0857,
-      "unrealized_pnl": 1.0932,
-      "unrealized_pct": 4.37,
+      "current_price": 95.908,
+      "current_value": 26.1062,
+      "unrealized_pnl": 1.1136,
+      "unrealized_pct": 4.46,
       "timestamp": "2026-04-23T07:14:41"
     }
   ],
