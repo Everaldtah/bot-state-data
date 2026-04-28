@@ -10,7 +10,7 @@
   "trades_today": 0,
   "position": null,
   "positions": [],
-  "last_update": "2026-04-28T16:31:25",
+  "last_update": "2026-04-28T16:32:26",
   "bot_status": "active",
   "guard": {
     "daily_loss": 1.5855,
@@ -22,7 +22,7 @@
     "circuit_open_until": null,
     "emergency_stops": 0,
     "blocked_trades": 0,
-    "last_health_check": "2026-04-28T16:31:25",
+    "last_health_check": "2026-04-28T16:32:26",
     "pid": 23694,
     "lock_held": true
   }
