@@ -4,7 +4,7 @@
   "balance_usdt": 0.0,
   "balance_eth": 0.0,
   "total_balance": 0.0,
-  "current_price": 2381.13,
+  "current_price": 2381.14,
   "total_pnl": 3.3597,
   "total_unrealized_pnl": 0,
   "trades_today": 0,
@@ -23,7 +23,7 @@
     "emergency_stops": 0,
     "blocked_trades": 0,
     "last_health_check": "2026-05-05T20:30:28",
-    "pid": 1207042,
+    "pid": 0,
     "lock_held": true
   }
 }
